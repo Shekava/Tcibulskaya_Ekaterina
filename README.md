@@ -8,7 +8,7 @@
 Готова работать самостоятельно над индивидуальной задачей, а также в команде.
 
 ## Навыки и технологии
-``exel``, ``SQL``, ``Jira``, ``Qase.io``, ``Sitechco``, ``Confluence``, ``Miro``, ``Mockoon``, ``JMeter``, ``Postman``, ``pgAdmin``
+``excel``, ``SQL``, ``Jira``, ``Qase.io``, ``Sitechco``, ``Confluence``, ``Miro``, ``Mockoon``, ``JMeter``, ``Postman``, ``pgAdmin``
 
 ## Проекты
 ### Проект 1
